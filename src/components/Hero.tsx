@@ -16,7 +16,7 @@ const Hero = () => {
       <div className="relative container py-20 md:py-32">
         <div className="max-w-3xl mx-auto text-center text-white">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-6">
-            <Leaf className="w-4 h-4" />
+            <Leaf className="w-4 h-4 text-green-600" />
             <span className="text-sm font-medium text-green-600">
               Combatendo o desperdício alimentar
             </span>
@@ -46,7 +46,7 @@ const Hero = () => {
             <Button
               size="lg"
               variant="outline"
-              className="border-white hover:bg-white/10 text-lg px-8 text-green-700"
+              className="border-white hover:bg-white/10 hover:text-green-700 text-lg px-8 text-green-700"
             >
               Como funciona
             </Button>

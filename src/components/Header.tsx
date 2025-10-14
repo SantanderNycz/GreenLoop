@@ -21,13 +21,17 @@ const Header = () => {
         </div>
 
         <div className="flex items-center gap-4">
-          <Button variant="outline" size="sm" className="gap-2">
+          <Button
+            variant="outline"
+            size="sm"
+            className="gap-2 hover:bg-green-800"
+          >
             <MapPin className="w-4 h-4" />
             <span className="hidden sm:inline">Sua localização</span>
           </Button>
           <Button
             size="sm"
-            className="bg-primary hover:bg-primary-light transition-colors"
+            className="bg-primary hover:bg-green-800 transition-colors"
           >
             Cadastrar mercado
           </Button>
