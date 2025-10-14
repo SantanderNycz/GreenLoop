@@ -7,7 +7,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 const Index = () => {
   const supermarkets = [
     {
-      name: "Pingo Salgado Centro",
+      name: "Gota Salgada Centro",
       distance: "850m",
       openUntil: "22h",
       productsCount: 45,
@@ -40,7 +40,7 @@ const Index = () => {
       originalPrice: 8.99,
       discountedPrice: 3.59,
       expiryDate: "Amanhã",
-      store: "Pingo Salgado Centro",
+      store: "Gota Salgada Centro",
       discount: 60,
     },
     {
@@ -67,7 +67,7 @@ const Index = () => {
       originalPrice: 7.99,
       discountedPrice: 3.19,
       expiryDate: "Amanhã",
-      store: "Pingo Salgado Centro",
+      store: "Gota Salgada Centro",
       discount: 60,
     },
     {
