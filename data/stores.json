@@ -1,0 +1,65 @@
+[
+  {
+    "id_brand": 302,
+    "brand": "continente bom dia",
+    "id_store": 7769,
+    "store": "CBD 800 DELAES",
+    "address": "Av. Albino Marques 503, 4765-096 Vila Nova de Famalicão"
+  },
+  {
+    "id_brand": 302,
+    "brand": "continente bom dia",
+    "id_store": 316,
+    "store": "CBD VILA BESSA (D)",
+    "address": "Rua José Gomes Monteiro 2675-341, Odivelas"
+  },
+  {
+    "id_brand": 302,
+    "brand": "continente bom dia",
+    "id_store": 3609,
+    "store": "CBD AVANCA",
+    "address": "Av. da Liberdade, Avanca"
+  },
+  {
+    "id_brand": 302,
+    "brand": "continente bom dia",
+    "id_store": 5750,
+    "store": "CBD 800 ODIV D DINIS",
+    "address": "Av. Dom Dinis 2675-431, Odivelas"
+  },
+  {
+    "id_brand": 302,
+    "brand": "continente bom dia",
+    "id_store": 3778,
+    "store": "CBD PARCHAL",
+    "address": "Rua Infante Dom Henrique 8400-656, Parchal"
+  },
+  {
+    "id_brand": 302,
+    "brand": "continente bom dia",
+    "id_store": 6094,
+    "store": "CBD STA MARIA LAMAS",
+    "address": "Rua Santa Maria 3241, 4535-403 Santa Maria de Lamas"
+  },
+  {
+    "id_brand": 302,
+    "brand": "continente bom dia",
+    "id_store": 321,
+    "store": "CBD VIZ ALM. BARROSO",
+    "address": "Rua Almirante Barroso 9-9A-9B, 1000-012 Lisboa"
+  },
+  {
+    "id_brand": 303,
+    "brand": "continente modelo",
+    "id_store": 5798,
+    "store": "MDL Boliqueime",
+    "address": "Rua Primeiro de Maio, Boliqueime"
+  },
+  {
+    "id_brand": 302,
+    "brand": "continente bom dia",
+    "id_store": 4526,
+    "store": "CBD ALPIARCA",
+    "address": "Rua José Relvas 46, 2090-103 Alpiarça"
+  }
+]

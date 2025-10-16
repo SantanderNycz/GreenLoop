@@ -1,0 +1,82 @@
+[
+    {
+        "client_id": "001",
+        "client_store": "3609",
+        "client_tag": "Beverage",
+        "client_email": "pkevek1@example.com",
+        "client_cellphone": "941014510",
+        "client_appid": "U_001API"
+    },
+    {
+        "client_id": "002",
+        "client_store": "3609",
+        "client_tag": "Protein",
+        "client_email": "boeolu2@yahoo.com",
+        "client_cellphone": "929924878",
+        "client_appid": "U_002API"
+    },
+    {
+        "client_id": "003",
+        "client_store": "3609",
+        "client_tag": "Snacks",
+        "client_email": "kvjagp3@hotmail.com",
+        "client_cellphone": "967752865",
+        "client_appid": "U_003API"
+    },
+    {
+        "client_id": "004",
+        "client_store": "316",
+        "client_tag": "Grains",
+        "client_email": "acwyih4@yahoo.com",
+        "client_cellphone": "951739959",
+        "client_appid": "U_004API"
+    },
+    {
+        "client_id": "005",
+        "client_store": "316",
+        "client_tag": "Snacks",
+        "client_email": "jziojg5@gmail.com",
+        "client_cellphone": "968282373",
+        "client_appid": "U_005API"
+    },
+    {
+        "client_id": "006",
+        "client_store": "321",
+        "client_tag": "Snacks",
+        "client_email": "slklzd6@example.com",
+        "client_cellphone": "912711886",
+        "client_appid": "U_006API"
+    },
+    {
+        "client_id": "007",
+        "client_store": "321",
+        "client_tag": "Condiments",
+        "client_email": "ofbfwc7@yahoo.com",
+        "client_cellphone": "992486769",
+        "client_appid": "U_007API"
+    },
+    {
+        "client_id": "008",
+        "client_store": "4526",
+        "client_tag": "Bakery",
+        "client_email": "rsfueu8@yahoo.com",
+        "client_cellphone": "985772635",
+        "client_appid": "U_008API"
+    },
+    {
+        "client_id": "009",
+        "client_store": "4526",
+        "client_tag": "Spices",
+        "client_email": "qzlmux9@gmail.com",
+        "client_cellphone": "959687652",
+        "client_appid": "U_009API"
+    },
+    {
+        "client_id": "010",
+        "client_store": "3778",
+        "client_tag": "Grains",
+        "client_email": "vvbmkj10@hotmail.com",
+        "client_cellphone": "983455152",
+        "client_appid": "U_010API"
+    }
+]
