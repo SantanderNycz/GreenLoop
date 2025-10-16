@@ -11,6 +11,7 @@ interface ProductCardProps {
   expiryDate: string;
   store: string;
   discount: number;
+  imageUrl: string;
 }
 
 const ProductCard = ({
@@ -26,7 +27,11 @@ const ProductCard = ({
   return (
     <Card className="overflow-hidden hover:shadow-md transition-shadow">
       <div className="h-32 bg-gradient-to-br from-secondary to-muted flex items-center justify-center relative">
-        <div className="text-4xl opacity-20">🥬</div>
+        <img 
+    src={imageUrl} 
+    alt={name} 
+    className="object-cover w-full h-full" 
+  />
         <Badge className="absolute top-2 right-2 bg-destructive text-destructive-foreground font-bold">
           -{discount}%
         </Badge>
