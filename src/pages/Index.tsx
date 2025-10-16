@@ -40,7 +40,7 @@ const Index = () => {
       originalPrice: 8.99,
       discountedPrice: 3.59,
       expiryDate: "Amanhã",
-      store: "Gota Salgada Centro",
+      store: "Continente Bom Dia",
       discount: 20,
     },
     {
@@ -49,7 +49,7 @@ const Index = () => {
       originalPrice: 12.9,
       discountedPrice: 6.45,
       expiryDate: "2 dias",
-      store: "MacroPreço",
+      store: "Continente Modelo",
       discount: 20,
     },
     {
@@ -58,7 +58,7 @@ const Index = () => {
       originalPrice: 9.5,
       discountedPrice: 4.75,
       expiryDate: "Hoje",
-      store: "MercaOwner",
+      store: "Continente",
       discount: 20,
     },
     {
@@ -67,7 +67,7 @@ const Index = () => {
       originalPrice: 7.99,
       discountedPrice: 3.19,
       expiryDate: "Amanhã",
-      store: "Gota Salgada Centro",
+      store: "Continente Bom Dia",
       discount: 20,
     },
     {
@@ -76,7 +76,7 @@ const Index = () => {
       originalPrice: 18.9,
       discountedPrice: 9.45,
       expiryDate: "3 dias",
-      store: "MacroPreço",
+      store: "Continente Modelo",
       discount: 20,
     },
     {
@@ -85,7 +85,7 @@ const Index = () => {
       originalPrice: 5.99,
       discountedPrice: 2.99,
       expiryDate: "2 dias",
-      store: "MercaOwner",
+      store: "Continente",
       discount: 20,
     },
   ];
