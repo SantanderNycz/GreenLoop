@@ -45,7 +45,7 @@ const ProductCard = ({
 
         <div className="flex items-center gap-2 text-sm text-muted-foreground">
           <Store className="w-3 h-3" />
-          <span className="truncate">{productsCount}</span>
+          <span className="truncate">Estoque: {productsCount}</span>
         </div>
         
         <div className="flex items-center gap-2 text-sm">
