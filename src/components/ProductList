@@ -1,0 +1,60 @@
+import ProductCard from "./ProductCard";
+
+const products = [
+  {
+    name: "Alface",
+    category: "Verdura",
+    originalPrice: 2.5,
+    discountedPrice: 1.5,
+    productsCount: 10,
+    expiryDate: "2025-10-20",
+    store: "Continente",
+    discount: 40,
+    imageUrl: "/assets/alface.jpg",
+  },
+  {
+    name: "Iogurte",
+    category: "Lacticinios",
+    originalPrice: 3.0,
+    discountedPrice: 2.0,
+    productsCount: 15,
+    expiryDate: "2025-10-22",
+    store: "Continente Bom Dia",
+    discount: 33,
+    imageUrl: "/assets/iogurte.jpg",
+  },
+  {
+    name: "Pão Integral",
+    category: "Pao",
+    originalPrice: 4.0,
+    discountedPrice: 3.0,
+    productsCount: 20,
+    expiryDate: "2025-10-25",
+    store: "Continente Modelo",
+    discount: 25,
+    imageUrl: "/assets/pao-integral.jpg",
+  },
+];
+
+const ProductList = () => {
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      {products.map((product) => (
+        <ProductCard
+          key={product.name}
+          name={product.name}
+          category={product.category}
+          originalPrice={product.originalPrice}
+          discountedPrice={product.discountedPrice}
+          productsCount={product.productsCount}
+          expiryDate={product.expiryDate}
+          store={product.store}
+          discount={product.discount}
+          imageUrl={product.imageUrl}
+        />
+      ))}
+    </div>
+  );
+};
+
+export default ProductList;
