@@ -1,6 +1,6 @@
 import { Card, CardContent } from "./ui/card";
 import { Badge } from "./ui/badge";
-import { Calendar, Store } from "lucide-react";
+import { Calendar, Store, PackageOpen } from "lucide-react";
 
 interface ProductCardProps {
   name: string;
