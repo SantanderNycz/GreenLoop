@@ -7,29 +7,29 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 const Index = () => {
   const supermarkets = [
     {
-      name: "Gota Salgada Centro",
+      name: "Continente Bom Dia",
       distance: "850m",
       openUntil: "22h",
       productsCount: 45,
-      discount: "60%",
-      address: "Rua Augusta, 123 - Lisboa",
+      discount: "20%",
+      address: "Avenida de Francelos, 1022 - Vila Nova de Gaia",
       featured: true,
     },
     {
-      name: "MacroPreço",
+      name: "Continente",
       distance: "1.2km",
       openUntil: "20h",
       productsCount: 32,
-      discount: "50%",
-      address: "Av. da Liberdade, 456 - Lisboa",
+      discount: "20%",
+      address: "Av. dos Descobrimentos - Vila Nova de Gaia",
     },
     {
-      name: "MercaOwner",
+      name: "Continente Modelo",
       distance: "2.1km",
       openUntil: "21h",
       productsCount: 28,
-      discount: "45%",
-      address: "Rua do Comércio, 789 - Lisboa",
+      discount: "20%",
+      address: "R. Alto das Torres, 891 - Vila Nova de Gaia",
     },
   ];
 
@@ -41,7 +41,7 @@ const Index = () => {
       discountedPrice: 3.59,
       expiryDate: "Amanhã",
       store: "Gota Salgada Centro",
-      discount: 60,
+      discount: 20,
     },
     {
       name: "Iogurte Natural 500g",
@@ -50,7 +50,7 @@ const Index = () => {
       discountedPrice: 6.45,
       expiryDate: "2 dias",
       store: "MacroPreço",
-      discount: 50,
+      discount: 20,
     },
     {
       name: "Pão Integral Multigrãos",
@@ -59,7 +59,7 @@ const Index = () => {
       discountedPrice: 4.75,
       expiryDate: "Hoje",
       store: "MercaOwner",
-      discount: 50,
+      discount: 20,
     },
     {
       name: "Tomate Cereja Bandeja 250g",
@@ -68,7 +68,7 @@ const Index = () => {
       discountedPrice: 3.19,
       expiryDate: "Amanhã",
       store: "Gota Salgada Centro",
-      discount: 60,
+      discount: 20,
     },
     {
       name: "Queijo Minas Frescal 500g",
@@ -77,7 +77,7 @@ const Index = () => {
       discountedPrice: 9.45,
       expiryDate: "3 dias",
       store: "MacroPreço",
-      discount: 50,
+      discount: 20,
     },
     {
       name: "Banana Prata Kg",
@@ -86,7 +86,7 @@ const Index = () => {
       discountedPrice: 2.99,
       expiryDate: "2 dias",
       store: "MercaOwner",
-      discount: 50,
+      discount: 20,
     },
   ];
 
