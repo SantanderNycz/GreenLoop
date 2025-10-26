@@ -34,7 +34,9 @@ const ProductCard = ({
 
       <CardContent className="p-4 space-y-3">
         <div>
-          <Badge variant="outline" className="mb-2 text-xs">{category}</Badge>
+          <Badge variant="outline" className="mb-2 text-xs">
+            {category}
+          </Badge>
           <h3 className="font-semibold text-foreground line-clamp-2">{name}</h3>
         </div>
 
@@ -44,7 +46,7 @@ const ProductCard = ({
         </div>
 
         <div className="flex items-center gap-2 text-sm text-muted-foreground">
-          <PackageOpen className="w-3 h-3 text-green-700" />
+          <PackageOpen className="w-3 h-3" />
           <span className="truncate">Estoque: {productsCount}</span>
         </div>
 
