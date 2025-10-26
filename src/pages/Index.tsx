@@ -18,14 +18,14 @@ const Index = () => {
       name: "Big Preço",
       distance: "1.2km",
       openUntil: "20h",
-      discount: "20%",
+      discount: "30%",
       address: "Av. dos Descobrimentos - Vila Nova de Gaia",
     },
     {
       name: "Gota Salgada",
       distance: "2.1km",
       openUntil: "21h",
-      discount: "20%",
+      discount: "15%",
       address: "R. Alto das Torres, 891 - Vila Nova de Gaia",
     },
   ];
@@ -49,7 +49,7 @@ const Index = () => {
       productsCount: 15,
       expiryDate: "2 dias",
       store: "Big Preço",
-      discount: 20,
+      discount: 25,
     },
     {
       name: "Pão Integral Multigrãos",
@@ -79,7 +79,7 @@ const Index = () => {
       productsCount: 7,
       expiryDate: "3 dias",
       store: "Big Preço",
-      discount: 20,
+      discount: 15,
     },
     {
       name: "Banana Prata Kg",
@@ -89,7 +89,7 @@ const Index = () => {
       productsCount: 30,
       expiryDate: "2 dias",
       store: "Gota Salgada",
-      discount: 20,
+      discount: 10,
     },
   ];
 

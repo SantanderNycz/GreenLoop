@@ -27,7 +27,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-green-700 mb-8 max-w-2xl mx-auto">
-            Encontre produtos perto do vencimento com {" "}
+            Encontre produtos perto do vencimento com{" "}
             <span className="font-bold text-accent-foreground text-green-800">
               20% de desconto
             </span>{" "}
@@ -53,17 +53,17 @@ const Hero = () => {
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl mx-auto">
-            <div className="flex flex-col items-center gap-2 p-4 rounded-lg bg-white/10 backdrop-blur-sm">
+            <div className="flex flex-col items-center gap-2 p-4 rounded-lg bg-white/40 backdrop-blur-sm">
               <TrendingDown className="w-8 h-8 text-green-700" />
               <div className="text-2xl font-bold text-green-700">20%</div>
               <div className="text-sm text-green-700">Desconto médio</div>
             </div>
-            <div className="flex flex-col items-center gap-2 p-4 rounded-lg bg-white/10 backdrop-blur-sm">
+            <div className="flex flex-col items-center gap-2 p-4 rounded-lg bg-white/40 backdrop-blur-sm">
               <Leaf className="w-8 h-8 text-green-700" />
               <div className="text-2xl font-bold text-green-700">50t</div>
               <div className="text-sm text-green-700">Comida salva/mês</div>
             </div>
-            <div className="flex flex-col items-center gap-2 p-4 rounded-lg bg-white/10 backdrop-blur-sm">
+            <div className="flex flex-col items-center gap-2 p-4 rounded-lg bg-white/40 backdrop-blur-sm">
               <Users className="w-8 h-8 text-green-700" />
               <div className="text-2xl font-bold text-green-700">15k+</div>
               <div className="text-sm text-green-700">Usuários ativos</div>
