@@ -7,7 +7,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 const Index = () => {
   const supermarkets = [
     {
-      name: "Continente Bom Dia",
+      name: "MercaOwner",
       distance: "850m",
       openUntil: "22h",
       discount: "20%",
@@ -15,14 +15,14 @@ const Index = () => {
       featured: true,
     },
     {
-      name: "Continente",
+      name: "Gota Salgada",
       distance: "1.2km",
       openUntil: "20h",
       discount: "20%",
       address: "Av. dos Descobrimentos - Vila Nova de Gaia",
     },
     {
-      name: "Continente Modelo",
+      name: "Gota Salgada",
       distance: "2.1km",
       openUntil: "21h",
       discount: "20%",
@@ -38,7 +38,7 @@ const Index = () => {
       discountedPrice: 3.59,
       productsCount: 5,
       expiryDate: "Amanhã",
-      store: "Continente Bom Dia",
+      store: "MercaOwner",
       discount: 20,
     },
     {
@@ -48,7 +48,7 @@ const Index = () => {
       discountedPrice: 6.45,
       productsCount: 15,
       expiryDate: "2 dias",
-      store: "Continente Modelo",
+      store: "Big Preço",
       discount: 20,
     },
     {
@@ -58,7 +58,7 @@ const Index = () => {
       discountedPrice: 4.75,
       productsCount: 25,
       expiryDate: "Hoje",
-      store: "Continente",
+      store: "Gota Salgada",
       discount: 20,
     },
     {
@@ -68,7 +68,7 @@ const Index = () => {
       discountedPrice: 3.19,
       productsCount: 11,
       expiryDate: "Amanhã",
-      store: "Continente Bom Dia",
+      store: "MercaOwner",
       discount: 20,
     },
     {
@@ -78,7 +78,7 @@ const Index = () => {
       discountedPrice: 9.45,
       productsCount: 7,
       expiryDate: "3 dias",
-      store: "Continente Modelo",
+      store: "Big Preço",
       discount: 20,
     },
     {
@@ -88,7 +88,7 @@ const Index = () => {
       discountedPrice: 2.99,
       productsCount: 30,
       expiryDate: "2 dias",
-      store: "Continente",
+      store: "Gota Salgada",
       discount: 20,
     },
   ];
