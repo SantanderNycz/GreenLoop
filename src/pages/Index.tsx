@@ -15,7 +15,7 @@ const Index = () => {
       featured: true,
     },
     {
-      name: "Gota Salgada",
+      name: "Big Preço",
       distance: "1.2km",
       openUntil: "20h",
       discount: "20%",
